@@ -20,7 +20,7 @@ const AppRouter = () => {
         <Route path="/watch" element={<Watch/>} />
         <Route path="/support" element={<Support/>} />
         <Route path="/tv" element={<TV/>} />
-        <Route path="/watch" element={<Music/>} />
+        <Route path="/music" element={<Music/>} />
       </Routes>
     </Router>
   )

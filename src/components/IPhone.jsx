@@ -2,7 +2,7 @@ import React from 'react'
 
 const IPhone = () => {
   return (
-    <div>IPhone</div>
+    <div className='bg-[#1da1f2]'>IPhone</div>
   )
 }
 

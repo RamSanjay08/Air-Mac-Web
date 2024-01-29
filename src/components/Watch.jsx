@@ -2,7 +2,7 @@ import React from 'react'
 
 const Watch = () => {
   return (
-    <div>Watch</div>
+    <div className='bg-tahiti-700'>Watch</div>
   )
 }
 

@@ -34,7 +34,7 @@ const IphoneAds = () => {
 
   return (
     <>
-     <h1 className='font-sans font-semibold text-5xl p-11  text-center pb-10 text-gray-900'>The latest. <span className='text-gray-500'>Take a look at what’s new right now.</span></h1>
+     <h1 className='font-sans font-semibold text-5xl p-11 text-center pb-10 text-gray-900'>The latest. <span className='text-gray-500'>Take a look at what’s new right now.</span></h1>
     <section className="flex flex-row overflow-x-auto">
       {productData.map(({ id, title, mainTitle, price, img }) => {
         return (
